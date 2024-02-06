@@ -75,3 +75,35 @@ Here are some ideas to get you started:
   <a href="https://www.sololearn.com/en/profile/10779339" target="_blank">
     <img src="https://img.shields.io/badge/Sololearn-f20057?style=for-the-badge&logoColor=white"/>
   </a>
+
+  <h2> 🧰 Languages and Tools</h2>
+
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+
+### 📊 Stats
+
+![SPaci's GitHub stats](https://github-readme-stats.vercel.app/api?username=SPaci20&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=SPaci20&theme=gruvbox&border_radius=4.5) -->
+
+#
+<details>
+ <summary><h3>👨‍💻 SPaci's Coding Journey</h3></summary>
+
+My coding journey kicked off with a curiosity-driven exploration into the world of web development. Armed with a passion for creating digital experiences, I embarked on a self-taught adventure, starting with the basics - HTML and CSS. As the pixels started to align on the screen, I felt the thrill of bringing ideas to life.I dipped my toes into the realm of JavaScript. The language added a layer of interactivity to my creations, and I found myself scripting logic and breathing life into static pages. Each line of code became a step forward in my coding odyssey.As my journey progressed, I stumbled upon educational havens that fueled my hunger for knowledge. Platforms like Andela, FreeCodeCamp, Coursera, and ALX Software Engineering became my companions. The structured lessons, challenging projects, and supportive communities turned my hobby into a disciplined learning experience.With each completed course, I grew more confident in my abilities.As I look back at my coding journey, I see a landscape shaped by curiosity, dedication, and the invaluable guidance of online mentors and communities. The lessons learned, the projects completed, and the challenges overcome have forged me into a versatile coder, ready to tackle the ever-evolving world of technology.
+
+The coding journey is ongoing, and the horizon is boundless. With every line of code, I continue to carve my path, driven by the passion that sparked this incredible adventure.
