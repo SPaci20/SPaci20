@@ -93,11 +93,10 @@ Here are some ideas to get you started:
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
 
-## 📊 Stats: ##
-
+<h2 align="left"> 📊 Stats: </h2>
 ![SPaci's GitHub stats](https://github-readme-stats.vercel.app/api?username=SPaci20&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=SPaci20&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=SPaci20&theme=gruvbox&border_radius=4.5)
 
 <details>
  <summary><h3>👨‍💻 SPaci's Coding Journey</h3></summary>
