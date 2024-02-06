@@ -1,7 +1,5 @@
 ## SPaci 😎
 
-** 'DevCraft(Developer)'**
-
 Passionate about creating seamless digital experiences and solving complex problems through code, SPaci is a skilled Full Stack Software Developer with a knack for innovation. With a solid foundation in both front-end and back-end technologies, SPaci has a track record of delivering robust and user-friendly applications.Ready to tackle the world's challenges, one line of code at a time.
 
 <!-- Social icons section -->
@@ -13,7 +11,7 @@ Passionate about creating seamless digital experiences and solving complex probl
       <img src="https://img.shields.io/twitter/follow/SPaciii_?logo=twitter&style=for-the-badge&color=0C7DBE&labelColor=000000" alt="Twitter Profile">
    </a>
    <a href="https://discord.gg/65cjUZnm" target="_blank">
-      <img src="https://img.shields.io/discord/1024464556606623814.svg?color=blue&label=Discord&logo=discord&style=for-the-badge" alt="Discord Server">
+      <img src="https://img.shields.io/discord/.svg?color=blue&label=Discord&logo=discord&style=for-the-badge" alt="Discord Server">
    </a>
    <a href="https://wa.me/250788491738" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
@@ -24,7 +22,7 @@ Passionate about creating seamless digital experiences and solving complex probl
 
 Here are some ideas to get you started:
 
-- 💻 I’m a software engineer - Backend|frontend
+- 💻 I’m a software engineer - Full-stack Developer
 - ⏳ I’m currently mastering my software engineering skills
 - 🌱 I’m currently building projects, collaborating and contributing to open source
 - 👯 I’m looking forward to connecting with more software engineers and collaborating with them on software engineering projects
